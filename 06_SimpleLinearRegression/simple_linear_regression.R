@@ -17,9 +17,9 @@ regressor = lm(formula = Salary ~ YearsExperience, # S is proportional to E
 
 # Show regressor properties
 summary(regressor) # show regressor properties
-# Simple Linear Regrassion Equation: y = p0 + p1*x
-# constant --> (Inercept) Estimate --> p0 = 25592
-# coef -> YearsExperience Estimate --> p1 = 9365
+# Simple Linear Regrassion Equation: y = b0 + b1*x
+# constant --> (Inercept) Estimate --> b0 = 25592
+# coef -> YearsExperience Estimate --> b1 = 9365
 # Final Equation: Salary = 25592 + 9365*Experience
 
 # Predicting the Test set results
