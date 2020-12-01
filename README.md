@@ -1,4 +1,4 @@
-# A-Z MachineLearning R
+# A-Z Machine Learning R
 - ### Part 01. Data Preprocessing
     - #### 04. Data Preprocessing
 - ### Part 02. Regression
