@@ -1,1 +1,38 @@
-# A-Z_MachineLearning_R
+# A-Z MachineLearning R
+- ### Part 01. Data Preprocessing
+    - #### 04. Data Preprocessing
+- ### Part 02. Regression
+    - #### 06. Simple Linear Regression
+    - #### 07. Multiple Linear Regression
+    - #### 08. Polynomial Regression
+    - #### 09. Support Vector Regression (SVR)
+    - #### 10. Decision Tree Regression
+    - #### 11. Random Forest Regression
+- ### Part 03. Classification
+    - #### 16. Logistic Regression
+    - #### 17. K-Nearest Neighbors (K-NN)
+    - #### 18. Support Vector Machine (SVM)
+    - #### 19. Kernel SVM
+    - #### 20. Naive Bayes
+    - #### 21. Decision Tree Classification
+    - #### 22. Random Forest Classification
+- ### Part 04. Clustering
+    - #### 26. K-Means Clustering
+    - #### 27. Hierarchical Clustering
+- ### Part 05. Association Rule Learning
+    - #### 29. Apriori Association
+    - #### 30. Eclat Association
+- ### Part 06. Reinforcement Learning
+    - #### 32. Upper Confidence Bound (UCB)
+    - #### 33. Thompson Sampling
+- ### Part 07. Natural Language Processing
+    - #### 34. Bag of Words
+- ### Part 08. Deep Learning
+    - #### 36. Artificial Neural Networks
+- ### Part 09. Dimensionality Reduction
+    - #### 39. Principal Component Analysis (PCA)
+    - #### 40. Linear Discriminant Analysis (LDA)
+    - #### 41. Kernel PCA
+- ### Part 10. Model Selection & Boosting
+    - #### 43. Model Selection
+    - #### 44. XGBoost
